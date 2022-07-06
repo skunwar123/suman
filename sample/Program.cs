@@ -11,7 +11,9 @@ namespace MyApp
             {
             Car myobj = new Car();
             Console.WriteLine(myobj.color);
+            Console.WriteLine(myobj.color);
             Console.WriteLine(myobj.maxSpeed );
+            Console.WriteLine(myobj.maxSpeed);
             Console.WriteLine(myobj.maxSpeed);
         }
 
